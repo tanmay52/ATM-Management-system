@@ -8,7 +8,7 @@ public class ATMmanagementSystem {
         int atmnumber=12345;
         int atmpin=123;
         Scanner in=new Scanner(System.in);
-        System.out.println("Welcome to ATM Machine !!!");
+        System.out.println("Welcome to Bank of Tanmay !!!");
         System.out.print("Enter Atm Number : ");
         int atmNumber=in.nextInt();
         System.out.print("Enter Pin: ");
